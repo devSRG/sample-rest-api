@@ -25,7 +25,7 @@ router.get('/', (req, res) => {
             const prices = priceRange.split('-');
             const pizzaPrice = pizza.prices[size.toUpperCase()]; 
 
-            return pizzaPrice >= parseInt(prices[0]) && parseInt(pizzaPrice <= prices[1]);
+            return pizzaPrice >= parseInt(prices[0]) && pizzaPrice <= parseInt(prices[1]);
         });
     } else {
         filteredData = data;
