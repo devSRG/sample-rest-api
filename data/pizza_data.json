@@ -1,0 +1,82 @@
+[
+  {
+    "id": "19823",
+    "name": "Cheese Masala",
+    "ingredients": ["cheese"],
+    "prices": {
+      "S": 699,
+      "M": 1199,
+      "L": 2699
+    }
+  },
+  {
+    "id": "19824",
+    "name": "Tomato Mania",
+    "ingredients": ["tomato"],
+    "prices": {
+      "S": 899,
+      "M": 1589,
+      "L": 2899
+    }
+  },
+  {
+    "id": "19825",
+    "name": "Cheese Tomato Buddy",
+    "ingredients": ["cheese", "tomato"],
+    "prices": {
+      "S": 999,
+      "M": 2199,
+      "L": 3699
+    }
+  },
+  {
+    "id": "19826",
+    "name": "Pepperoni Cheese Mania",
+    "ingredients": ["cheese", "pepper"],
+    "prices": {
+      "S": 799,
+      "M": 1499,
+      "L": 2799
+    }
+  },
+  {
+    "id": "19827",
+    "name": "Garlic Masala",
+    "ingredients": ["garlic"],
+    "prices": {
+      "S": 588,
+      "M": 1097,
+      "L": 1956
+    }
+  },
+  {
+    "id": "19828",
+    "name": "Cheese Garlic Mania",
+    "ingredients": ["cheese", "garlic"],
+    "prices": {
+      "S": 1299,
+      "M": 1999,
+      "L": 3169
+    }
+  },
+  {
+    "id": "19829",
+    "name": "Tomato Garlic Mania",
+    "ingredients": ["garlic", "tomato"],
+    "prices": {
+      "S": 699,
+      "M": 1199,
+      "L": 2699
+    }
+  },
+  {
+    "id": "19830",
+    "name": "Cheese Tomato Garlic Triple Combo",
+    "ingredients": ["cheese", "tomato", "garlic"],
+    "prices": {
+      "S": 1699,
+      "M": 2799,
+      "L": 4099
+    }
+  }
+]
